@@ -1,2 +1,1 @@
-# rsschool-cv
-https://github.com/Mnovokshchenov/rsschool-cv/
+https://GITHUB-Mnovokshchenov.github.io/rsschool-cv/cv
